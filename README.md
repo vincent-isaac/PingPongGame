@@ -2,6 +2,8 @@
 
 ## Aim:
 
+
+
 ## Algorithm:
 ### Step 1:
 Create a new scene and save. Then right click hierarchy and click ->create empty (name as Game manager).
